@@ -1,1 +1,3 @@
-# slides-feature-flags
+Redirect to slides on new github account:
+
+http://michaeltaranto.github.io/slides-feature-flags
